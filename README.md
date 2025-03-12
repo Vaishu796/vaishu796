@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vaishali Bhatt, a student and data science enthusiat👨‍💻 </div>  
+### <div align="center">I'm Vaishali Bhatt, a student and data science enthusiast👨‍💻 </div>  
   
 
 - 🔭 I’m currently brushing up my C skills  
