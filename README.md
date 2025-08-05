@@ -6,10 +6,10 @@
 ### <div align="center">I'm Vaishali Bhatt, a student and data science enthusiast👨‍💻 </div>  
   
 
-- 🔭 I’m currently brushing up my C skills  
+- 🔭 I’m currently brushing up my python skills  
   
 
-- 🌱 I’m currently learning data science through coursera  
+- 🌱 I’m a data science student
   
 
 - ⚡ Fun fact: I use tabs over spaces  
